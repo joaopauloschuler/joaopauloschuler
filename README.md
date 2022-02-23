@@ -4,4 +4,4 @@
 - [JP @ Papers with Code.](https://paperswithcode.com/search?q=author%3AJoao+Paulo+Schwarz+Schuler)
 - [JP @ YouTube.](https://www.youtube.com/channel/UC2a1cvovfmO1agAvYp6v54w)
 - [JP @ kaggle.](https://www.kaggle.com/joaopauloschuler/datasets)
-- [JP's Home.](http://www.schulers.com/jpss/)
+- [JP @ Home.](http://www.schulers.com/jpss/)
