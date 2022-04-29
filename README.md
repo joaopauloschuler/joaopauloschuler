@@ -7,9 +7,9 @@
 - [JP @ Home.](http://www.schulers.com/jpss/)
 
 ## Scientific Publications
+- [Grouped Pointwise Convolutions Significantly Reduces Parameters in EfficientNet.](https://www.researchgate.net/publication/355214501_Grouped_Pointwise_Convolutions_Significantly_Reduces_Parameters_in_EfficientNet)
 - [Grouped Pointwise Convolutions Reduce Parameters in Convolutional Neural Networks.](https://www.researchgate.net/publication/360226228_Grouped_Pointwise_Convolutions_Reduce_Parameters_in_Convolutional_Neural_Networks)
 - [Optimizing CNNs first layer with respect to color encoding.](https://www.researchgate.net/publication/357204289_Optimizing_CNNs_first_layer_with_respect_to_color_encoding)
-- [Grouped Pointwise Convolutions Significantly Reduces Parameters in EfficientNet.](https://www.researchgate.net/publication/355214501_Grouped_Pointwise_Convolutions_Significantly_Reduces_Parameters_in_EfficientNet)
 - [Reliable Deep Learning Plant Leaf Disease Classification Based on Light-Chroma Separated Branches.](https://www.researchgate.net/publication/355215213_Reliable_Deep_Learning_Plant_Leaf_Disease_Classification_Based_on_Light-Chroma_Separated_Branches)
 - [A Evolu&#231;&#227;o dos Algoritmos Mentais.](https://www.researchgate.net/publication/357204541_A_Evolucao_dos_Algoritmos_Mentais)
 - [Da F&#237;sica &#224; Intelig&#234;ncia Extrassom&#225;tica.](http://schulers.com/jpss/estudos/schuler_inteligencia_artificial.pdf)
