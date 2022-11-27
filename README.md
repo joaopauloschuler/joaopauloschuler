@@ -1,4 +1,6 @@
-### More about my work at:
+# Dr. JP - GitHub Repositories
+
+More about my work can be found at:
 - [JP @ ResearchGate.](https://www.researchgate.net/profile/Joao-Paulo-Schwarz-Schuler)
 - [JP @ SOURCEFORGE.](https://sourceforge.net/u/jpss/profile/)
 - [JP @ Papers with Code.](https://paperswithcode.com/search?q=author%3AJoao+Paulo+Schwarz+Schuler)
@@ -23,6 +25,7 @@ Publica&ccedil;&otilde;es em Portugu&ecirc;s:
 - [Intelig&#234;ncia Artificial Popperiana.](https://www.researchgate.net/publication/357164807_Inteligencia_Artificial_Popperiana)
 - [Opera&#231;&#245;es L&#243;gicas Qu&#226;nticas e Colorabilidade de Grafos.](https://www.researchgate.net/publication/357205247_Operacoes_Logicas_Quanticas_e_Colorabilidade_de_Grafos)
 
-Doctoral Thesis:
+## Doctoral Thesis
+JP's doctoral thesis can be read [here](https://www.researchgate.net/publication/365687628_Effective_Approaches_for_Improving_the_Efficiency_of_Deep_Convolutional_Neural_Networks_for_Image_Classification).
 
 <img align="left" src="printed-small.jpg" height="512">
