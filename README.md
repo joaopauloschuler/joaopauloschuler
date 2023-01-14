@@ -22,6 +22,7 @@ Publica&ccedil;&otilde;es em Portugu&ecirc;s:
 - [Da F&#237;sica &#224; Intelig&#234;ncia Extrassom&#225;tica.](http://schulers.com/jpss/estudos/schuler_inteligencia_artificial.pdf)
 - [Intelig&#234;ncia Artificial Popperiana.](https://www.researchgate.net/publication/357164807_Inteligencia_Artificial_Popperiana)
 - [Opera&#231;&#245;es L&#243;gicas Qu&#226;nticas e Colorabilidade de Grafos.](https://www.researchgate.net/publication/357205247_Operacoes_Logicas_Quanticas_e_Colorabilidade_de_Grafos)
+- [Verdinhos e Felizes?](https://www.amazon.com.br/dp/B0BSCKBSDX)
 
 ## Doctoral Thesis
 JP's doctoral thesis can be read [here](https://www.researchgate.net/publication/365687628_Effective_Approaches_for_Improving_the_Efficiency_of_Deep_Convolutional_Neural_Networks_for_Image_Classification "Effective Approaches for Improving the Efficiency of Deep Convolutional Neural Networks for Image Classification").
