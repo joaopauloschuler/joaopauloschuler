@@ -8,7 +8,7 @@ More about my work can be found at:
 - [JP @ kaggle.](https://www.kaggle.com/joaopauloschuler/datasets)
 - [JP @ Home.](http://www.schulers.com/jpss/)
 
-## Scientific Publications
+## Publications
 Optimizing the first layers of a convolutional neural network:
 - [Color-aware two-branch DCNN for efficient plant disease classification](https://www.researchgate.net/publication/361511874_Color-Aware_Two-Branch_DCNN_for_Efficient_Plant_Disease_Classification).
 - [Reliable Deep Learning Plant Leaf Disease Classification Based on Light-Chroma Separated Branches.](https://www.researchgate.net/publication/355215213_Reliable_Deep_Learning_Plant_Leaf_Disease_Classification_Based_on_Light-Chroma_Separated_Branches)
@@ -23,6 +23,9 @@ Publica&ccedil;&otilde;es em Portugu&ecirc;s:
 - [Intelig&#234;ncia Artificial Popperiana.](https://www.researchgate.net/publication/357164807_Inteligencia_Artificial_Popperiana)
 - [Opera&#231;&#245;es L&#243;gicas Qu&#226;nticas e Colorabilidade de Grafos.](https://www.researchgate.net/publication/357205247_Operacoes_Logicas_Quanticas_e_Colorabilidade_de_Grafos)
 - [Verdinhos e Felizes?](https://www.amazon.com.br/dp/B0BSCKBSDX)
+
+Publicación en español:
+- [¿Verdecitos y Felices?](https://www.amazon.com.br/Historias-del-pasado-Ficci%C3%B3n-%C2%BFVerdecitos-ebook/dp/B0BSG34Y4J/)
 
 ## Doctoral Thesis
 JP's doctoral thesis can be read [here](https://www.researchgate.net/publication/365687628_Effective_Approaches_for_Improving_the_Efficiency_of_Deep_Convolutional_Neural_Networks_for_Image_Classification "Effective Approaches for Improving the Efficiency of Deep Convolutional Neural Networks for Image Classification").
