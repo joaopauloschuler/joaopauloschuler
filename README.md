@@ -25,7 +25,7 @@ Publica&ccedil;&otilde;es em Portugu&ecirc;s:
 - [Verdinhos e Felizes?](https://www.amazon.com.br/dp/B0BSCKBSDX)
 
 Publicación en español:
-- [¿Verdecitos y Felices?](https://www.amazon.com.br/Historias-del-pasado-Ficci%C3%B3n-%C2%BFVerdecitos-ebook/dp/B0BSG34Y4J/)
+- [¿Verdecitos y Felices?](https://www.amazon.com/dp/B0BSG34Y4J/)
 
 ## Doctoral Thesis
 JP's doctoral thesis can be read [here](https://www.researchgate.net/publication/365687628_Effective_Approaches_for_Improving_the_Efficiency_of_Deep_Convolutional_Neural_Networks_for_Image_Classification "Effective Approaches for Improving the Efficiency of Deep Convolutional Neural Networks for Image Classification").
