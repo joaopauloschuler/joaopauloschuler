@@ -19,8 +19,8 @@ Optimizing deep layers of a convolutional neural network:
 
 Happy Little Green (Science Fiction Short Read):
   - [English](https://mybook.to/EmLJ).
-  - [Spanish](https://mybook.to/5aldz).
-  - [Portuguese](https://mybook.to/nKoWS).
+  - [Spanish](https://mybook.to/nKoWS).
+  - [Portuguese](https://mybook.to/5aldz).
 
 Publica&ccedil;&otilde;es em Portugu&ecirc;s:
 - [A Evolu&#231;&#227;o dos Algoritmos Mentais.](https://www.researchgate.net/publication/357204541_A_Evolucao_dos_Algoritmos_Mentais)
