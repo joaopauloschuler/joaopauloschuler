@@ -4,7 +4,8 @@ More about my work can be found at:
 - [JP @ ResearchGate.](https://www.researchgate.net/profile/Joao-Paulo-Schwarz-Schuler)
 - [JP @ SOURCEFORGE.](https://sourceforge.net/u/jpss/profile/)
 - [JP @ Papers with Code.](https://paperswithcode.com/search?q=author%3AJoao+Paulo+Schwarz+Schuler)
-- [JP @ YouTube.](https://www.youtube.com/channel/UC2a1cvovfmO1agAvYp6v54w)
+- [JP @ YouTube.](https://www.youtube.com/@schuler-freeaudiobooks-en)
+- [JP @ Amazon Books.](https://www.amazon.com/stores/Dr.-Joao-Paulo-Schwarz-Schuler/author/B0BT9VJ45F)
 - [JP @ kaggle.](https://www.kaggle.com/joaopauloschuler/datasets)
 - [JP @ Home.](http://www.schulers.com/jpss/)
 
@@ -16,11 +17,6 @@ Optimizing the first layers of a convolutional neural network:
 Optimizing deep layers of a convolutional neural network:
 - [Grouped Pointwise Convolutions Reduce Parameters in Convolutional Neural Networks.](https://www.researchgate.net/publication/360226228_Grouped_Pointwise_Convolutions_Reduce_Parameters_in_Convolutional_Neural_Networks)
 - [An Enhanced Scheme for Reducing the Complexity of Pointwise Convolutions in CNNs for Image Classification Based on Interleaved Grouped Filters without Divisibility Constraints.](https://www.researchgate.net/publication/363413038_An_Enhanced_Scheme_for_Reducing_the_Complexity_of_Pointwise_Convolutions_in_CNNs_for_Image_Classification_Based_on_Interleaved_Grouped_Filters_without_Divisibility_Constraints)
-
-Happy Little Green (Science Fiction Short Read):
-  - [English](https://mybook.to/EmLJ).
-  - [Spanish](https://mybook.to/nKoWS).
-  - [Portuguese](https://mybook.to/5aldz).
 
 Publica&ccedil;&otilde;es em Portugu&ecirc;s:
 - [A Evolu&#231;&#227;o dos Algoritmos Mentais.](https://www.researchgate.net/publication/357204541_A_Evolucao_dos_Algoritmos_Mentais)
