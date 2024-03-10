@@ -4,7 +4,7 @@ More about my work can be found at:
 - [JP @ ResearchGate.](https://www.researchgate.net/profile/Joao-Paulo-Schwarz-Schuler)
 - [JP @ SOURCEFORGE.](https://sourceforge.net/u/jpss/profile/)
 - [JP @ Papers with Code.](https://paperswithcode.com/search?q=author%3AJoao+Paulo+Schwarz+Schuler)
-- [JP @ YouTube.](https://www.youtube.com/@schuler-freeaudiobooks-en)
+- [JP @ YouTube.](https://www.youtube.com/@artificial-intelligence-pascal)
 - [JP @ Amazon Books.](https://www.amazon.com/stores/Dr.-Joao-Paulo-Schwarz-Schuler/author/B0BT9VJ45F)
 - [JP @ kaggle.](https://www.kaggle.com/joaopauloschuler/datasets)
 - [JP @ Home.](http://www.schulers.com/jpss/)
