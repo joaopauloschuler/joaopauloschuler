@@ -7,6 +7,7 @@ More about my work can be found at:
 - [JP @ YouTube.](https://www.youtube.com/@artificial-intelligence-pascal)
 - [JP @ Amazon Books.](https://www.amazon.com/stores/Dr.-Joao-Paulo-Schwarz-Schuler/author/B0BT9VJ45F)
 - [JP @ kaggle.](https://www.kaggle.com/joaopauloschuler/datasets)
+- [JP @ Hugging Face.](https://huggingface.co/schuler)
 - [JP @ Home.](http://www.schulers.com/jpss/)
 
 ## Publications
