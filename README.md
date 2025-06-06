@@ -1,6 +1,7 @@
 # Dr. JP - GitHub Repositories
 
 More about my work can be found at:
+- [JP @ Google Scholar.](https://scholar.google.com/citations?hl=en&user=VACOLssAAAAJ)
 - [JP @ ResearchGate.](https://www.researchgate.net/profile/Joao-Paulo-Schwarz-Schuler)
 - [JP @ SOURCEFORGE.](https://sourceforge.net/u/jpss/profile/)
 - [JP @ Papers with Code.](https://paperswithcode.com/search?q=author%3AJoao+Paulo+Schwarz+Schuler)
